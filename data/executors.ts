@@ -1,0 +1,80 @@
+export const executors = [
+  {
+    name: "Velocity",
+    slug: "velocity",
+    url: "https://gofile.io/d/v12Uk8",
+    image: "https://velocity-executor.com/wp-content/uploads/2025/06/velocity-main.png",
+  },
+  {
+    name: "Bunni",
+    slug: "bunni",
+    url: "https://bunni-static.online/files/2c772d84-9dd7-4068-87d8-22ea5ee8704c",
+    image: "https://raw.githubusercontent.com/dimzan-67/Raiden/main/canvas.png",
+  },
+  {
+    name: "Hydrogen",
+    slug: "hydrogen",
+    url: "https://hydrogen.lat/download",
+    image: "https://iili.io/qBSnyib.png",
+  },
+  {
+    name: "Codex",
+    slug: "codex",
+    url: "https://www.mediafire.com/file/r4amuil7pd7bebv/Codex+V2.708.880.apk/file",
+    image: "https://codex.lol/static/icons/icon.svg",
+  },
+  {
+    name: "Cryptic",
+    slug: "cryptic",
+    url: "https://www.mediafire.com/file/nyvuz8nr8r98lj6/Cryptic_APK_2.708.880.apk/file",
+    image: "https://files.catbox.moe/6pyfia.jpg",
+  },
+  {
+    name: "Volt",
+    slug: "volt",
+    url: "https://volt.bz/",
+    image: "https://iili.io/qBS7V7s.png",
+  },
+  {
+    name: "Vega X",
+    slug: "vegax",
+    url: "https://github.com/1f0yt/community/releases/download/Vegax/Vega.X.apk",
+    image: "https://vegax.gg/assets/img/V_logo_white.png",
+  },
+  {
+    name: "Seliware",
+    slug: "seliware",
+    url: "https://infinitycheats.gg/product?id=seliware",
+    image: "https://files.catbox.moe/gfkp8g.png",
+  },
+  {
+    name: "Wave",
+    slug: "wave",
+    url: "https://infinitycheats.gg/product?id=wave",
+    image: "https://files.catbox.moe/d4w7vt.png",
+  },
+  {
+    name: "Potassium",
+    slug: "potassium",
+    url: "https://infinitycheats.gg/product?id=potassium",
+    image: "https://files.catbox.moe/57t4e2.png",
+  },
+  {
+    name: "SirHurt",
+    slug: "sirhurt",
+    url: "https://sirhurt.net/#purchase",
+    image: "https://sirhurt.net/assets/img/sirhurtlogo.png",
+  },
+  {
+    name: "Volcano",
+    slug: "volcano",
+    url: "https://rocheats.com/product?id=volcano-roblox-executor",
+    image: "https://volcano.wtf/volcano.png",
+  },
+  {
+    name: "MacSploit",
+    slug: "macsploit",
+    url: "https://www.raptor.fun/payments/products/lifetime",
+    image: "https://www.raptor.fun/Images/WhiteAbyss.png",
+  },
+]
