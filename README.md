@@ -1,2 +1,1 @@
-# Raiden-Website
-The Website For Raiden Written in Next.JS
+Im Bored To Write A Description
